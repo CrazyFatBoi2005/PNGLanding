@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+    <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#F8FAFC"/>
+            <stop offset="100%" stop-color="#EEF2FF"/>
+        </linearGradient>
+    </defs>
+    <rect width="1200" height="630" fill="url(#g)"/>
+    <g transform="translate(80,120)">
+        <rect x="0" y="0" width="1040" height="390" rx="24" fill="#fff" stroke="#E2E8F0" />
+        <text x="520" y="160" text-anchor="middle" font-family="Inter, system-ui, Arial" font-size="72" font-weight="800" fill="#0F172A">.PNG</text>
+        <text x="520" y="220" text-anchor="middle" font-family="Inter, system-ui, Arial" font-size="30" fill="#475569">Команда разработчиков</text>
+    </g>
+</svg>
