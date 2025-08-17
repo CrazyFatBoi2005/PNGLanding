@@ -14,6 +14,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@testing-library/react": "^16.3.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.441.0",
@@ -39,5 +40,5 @@
     "typescript": "^5.5.4",
     "vite": "^5.4.1"
   },
-  "homepage": "https://CrazyFatBoi2005.github.io/PNGLanding"
+  "homepage": "https://crazyfatboi2005.github.io/PNGLanding"
 }
